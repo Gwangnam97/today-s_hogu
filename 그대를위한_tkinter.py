@@ -2,9 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import random
 import shutil
-
 import ctypes as ct
-
 import smtplib
 import ssl
 from email.utils import formataddr
