@@ -22,7 +22,7 @@ Behold Our Awesome Project!
      :alt: Black code style
 
 
-:License: PLAY_DATA
+:License: Gwang_Gwang
 
 
 
